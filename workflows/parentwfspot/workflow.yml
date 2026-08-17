@@ -1,7 +1,7 @@
 private: false
 customLibraries:
   array: []
-name: childwfspot
+name: parentwfspot
 setupScripts:
   object:
     python:
@@ -10,7 +10,7 @@ setupScripts:
     javascript:
       object:
         codeString: ''
-hasProtectedTriggers: false
+hasProtectedTriggers: true
 triggerWebhooks:
   array:
     - object:
@@ -25,10 +25,10 @@ triggerWebhooks:
         exampleInputJSON: ''
         examplePathParams: ''
 version: 43.0.9
-workflowId: 1202160b-be9d-4307-8d1d-7805c7db56c6
+workflowId: 60a7e550-559e-423e-8711-fc40156dc2c0
 description: ''
 sfSymbols:
-  - childwfspot
-  - workflowDiyaaYaqub2026081715256Pm
+  - parentwfspot
+  - workflowDiyaaYaqub2026081715229Pm
 workflowTemplate:
   version: 4.43.0
