@@ -1,0 +1,21 @@
+- id: 0d9e4710-27ff-4a83-b5c8-d3978f278e53
+  createdBy: 2160730
+  enabledAt: null
+  workflowId: e3dad51e-c8bf-4aad-9dbf-55a39d827e50
+  triggerType: schedule
+  environmentId: 77014d80-047a-4d88-a0e6-ce843787e61b
+  triggerOptions:
+    crontab: 0 0 * * *
+    timezone: UTC
+    scheduleType: interval
+  environmentName: production
+  concurrencyLimit: 1
+- id: 4c945509-d2e8-42eb-8b13-dd443b082795
+  createdBy: 2160730
+  enabledAt: null
+  workflowId: e3dad51e-c8bf-4aad-9dbf-55a39d827e50
+  triggerType: webhook
+  environmentId: 77014d80-047a-4d88-a0e6-ce843787e61b
+  triggerOptions: null
+  environmentName: production
+  concurrencyLimit: null
