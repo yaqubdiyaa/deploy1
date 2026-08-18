@@ -10,7 +10,7 @@ setupScripts:
     javascript:
       object:
         codeString: ''
-hasProtectedTriggers: false
+hasProtectedTriggers: true
 triggerWebhooks:
   array:
     - object:
