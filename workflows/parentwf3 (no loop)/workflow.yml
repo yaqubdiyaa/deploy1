@@ -1,0 +1,34 @@
+private: false
+customLibraries:
+  array: []
+name: parentwf3 (no loop)
+setupScripts:
+  object:
+    python:
+      object:
+        codeString: ''
+    javascript:
+      object:
+        codeString: ''
+hasProtectedTriggers: true
+triggerWebhooks:
+  array:
+    - object:
+        name: startTrigger
+        uuid: startTrigger
+        headers: '{}'
+        inputSchema:
+          object:
+            properties:
+              array: []
+        useHeaderApiKey: false
+        exampleInputJSON: ''
+        examplePathParams: ''
+version: 43.0.9
+workflowId: 12de06f9-71cd-4c2d-bb75-29ba38e47ec0
+description: ''
+sfSymbols:
+  - parentwf3NoLoop
+  - workflowDiyaaYaqub2026081843635Pm
+workflowTemplate:
+  version: 4.44.0
