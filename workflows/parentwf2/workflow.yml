@@ -1,0 +1,34 @@
+private: false
+customLibraries:
+  array: []
+name: parentwf2
+setupScripts:
+  object:
+    python:
+      object:
+        codeString: ''
+    javascript:
+      object:
+        codeString: ''
+hasProtectedTriggers: true
+triggerWebhooks:
+  array:
+    - object:
+        name: startTrigger
+        uuid: startTrigger
+        headers: '{}'
+        inputSchema:
+          object:
+            properties:
+              array: []
+        useHeaderApiKey: false
+        exampleInputJSON: ''
+        examplePathParams: ''
+version: 43.0.9
+workflowId: 075b0092-6a4a-411b-8ff3-d4ec4df2e7d2
+description: ''
+sfSymbols:
+  - parentwf2
+  - workflowDiyaaYaqub2026081835435Pm
+workflowTemplate:
+  version: 4.44.0
