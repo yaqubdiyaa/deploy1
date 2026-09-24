@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "6a16a71e-b84a-11f1-9a91-f70f11d0dd7c",
+      "name": "testingname",
+      "resourceReferencesByFile": {},
+      "appIdentifier": "testingname"
+    }
+  }
+}
